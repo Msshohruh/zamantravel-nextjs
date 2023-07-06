@@ -10,7 +10,7 @@ async function fetchData() {
   const [data, setData] = useState(false);
   useEffect(() => {
     async function get() {
-      const req = await fetch("http://localhost:3000/api");
+      const req = await fetch("https://zamantravel-nextjs.vercel.app/api");
       // The return value is *not* serialized
       // You can return Date, Map, Set, etc.
 
