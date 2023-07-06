@@ -1,0 +1,50 @@
+.phone-btn::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #2163fd;
+    z-index: -1;
+    border-radius: 50%;
+    animation: phone-btn 2s linear infinite ;
+}
+.phone-icon {
+    animation: phone 3s ease infinite;
+}
+
+@keyframes phone-btn {
+    0% {
+        opacity: 1;
+        transform: scale(1);
+    } 
+    70% {
+        opacity: 0;
+        transform: scale(2);
+    }
+    70.000000001% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+@keyframes phone {
+    2% {
+        transform: rotate(25deg);
+    }
+    4% {
+        transform: rotate(-25deg);
+    }
+    6% {
+        transform: rotate(15deg);
+    }
+    8% {
+        transform: rotate(-15deg);
+    }
+    10% {
+        transform: rotate(15deg);
+    }
+    12% {
+        transform: rotate(0deg);
+    }
+}

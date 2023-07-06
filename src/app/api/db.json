@@ -1,0 +1,766 @@
+{
+  "uz": {
+    "header": [
+      {
+        "title": "Bosh Sahifa",
+        "link": "#header"
+      },
+      {
+        "title": "Turlar",
+        "link": "#tours"
+      },
+      {
+        "title": "Biz haqimizda",
+        "link": "#about"
+      },
+      {
+        "title": "Kontaktlar",
+        "link": "contact"
+      }
+    ],
+    "carousel": [
+      {
+        "title": "Sharm-el Sheykh",
+        "link": "Sharm-el Sheykh"
+      },
+      {
+        "title": "Hashamatli Dubay",
+        "link": "Dubay"
+      },
+      {
+        "title": "Tailandning tropik orollari",
+        "link": "Tailand"
+      },
+      {
+        "title": "Haj va Umra",
+        "link": "Haj va Umra"
+      },
+      {
+        "title": "Turkiya",
+        "link": "Turkiya"
+      },
+      {
+        "title": "Layner",
+        "link": "Layner"
+      }
+    ],
+    "tours": [
+      {
+        "id": 1,
+        "name": "Dubay",
+        "desc": "",
+        "images": [
+          "https://dubai-luxury.property/ru/uploads/images/2022-10/0b037a6a5fb15a728fa47d5b47a467e4.jpg",
+          "https://pbs.twimg.com/media/DbdLxLIV0AEUc8a.jpg:large",
+          "https://www.worldtravelplanner.co.uk/wp-content/uploads/2020/11/bulgari.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Haj va Umra",
+        "desc": "",
+        "images": [
+          "https://sgp1.digitaloceanspaces.com/indonesiawindow/2020/09/DL1W6214-1536x1024.jpg",
+          "https://atyabtravels.in/wp-content/uploads/2017/04/hd-haram-1.jpg",
+          "https://foundtheworld.com/wp-content/uploads/2016/01/Mecca-2-1392x835.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Sharm-el Sheykh",
+        "desc": "",
+        "images": [
+          "https://sportishka.com/uploads/posts/2022-03/1646085228_8-sportishka-com-p-sharmel-sheikh-yegipet-turizm-krasivo-foto-10.jpg",
+          "http://vsegda-pomnim.com/uploads/posts/2022-04/1649341892_52-vsegda-pomnim-com-p-yegipet-sharm-el-sheikh-plyazhi-foto-61.jpg",
+          "https://sportishka.com/uploads/posts/2022-03/1646085183_17-sportishka-com-p-sharmel-sheikh-yegipet-turizm-krasivo-foto-20.jpg"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Tailand",
+        "desc": "",
+        "images": [
+          "https://img5.goodfon.ru/original/1024x768/c/e4/gorod-noch-zdaniia-bangkok-tailand-tailand-park-ogni.jpg",
+          "https://static.guidego.ru/64424eb4e5a415045ada8882.1600x1200.jpeg",
+          "https://sportishka.com/uploads/posts/2022-03/1646332659_16-sportishka-com-p-pkhuket-plyazhi-turizm-krasivo-foto-21.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Turkiya",
+        "desc": "",
+        "images": [
+          "https://alkhailtr.com/wp-content/uploads/2022/10/Cost-of-living-in-Turkey.jpg",
+          "https://sn-gazeta.ru/wp-content/uploads/2023/04/lualuao12122.jpeg",
+          "https://img5.goodfon.ru/original/1280x960/b/54/antalia-turtsiia-iakhty-more.jpg"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Layner",
+        "desc": "",
+        "images": [
+          "https://sun9-15.userapi.com/impg/56Rnw8QEUF6Y5EQaZeHK1dSgpoNabam7keTwHQ/110myxDKU28.jpg?size=1280x852&quality=95&sign=6b3529fa4e9bf2a8b6548ab48595f3ae&c_uniq_tag=HyFrE9FMrio7lFl0qJKeLu15wwgAACRCCl4ebiMBgbI&type=album",
+          "https://drikus.club/uploads/posts/2021-12/thumbs/1640795970_15-drikus-club-p-krasivie-kruiznie-laineri-tekhnika-krasivo-16.jpg",
+          "https://img1.goodfon.com/original/1280x1024/1/9b/msc-fantasia-sudno-layner.jpg"
+        ]
+      }
+    ],
+    "localTours": [
+      {
+        "id": 1,
+        "name": "Toshkent",
+        "desc": "",
+        "images": [
+          "https://static.tildacdn.com/tild3435-3539-4033-b565-333238333237/__.jpg",
+          "https://indyguide-web-development.s3.us-east-2.amazonaws.com/listings/images/Family-Tour-In-In-Uzbekistan-1614685680650.jpg",
+          "https://loveopium.ru/content/2019/06/tashkent/34s.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Samarqand",
+        "desc": "",
+        "images": [
+          "https://advice.uz/uploads/resources/RegistanSquare_Samarkand.jpg",
+          "https://turan-travel.com/uploads/excursions/Samarkand/photos/75551533990838.jpeg",
+          "https://visaispan.ru/images/wp-content/uploads/2021/02/visa-v-uzbekistan-01.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Buxoro",
+        "desc": "",
+        "images": [
+          "https://kapital.uz/wp-content/uploads/2022/05/buhara1.jpg",
+          "https://7d9e88a8-f178-4098-bea5-48d960920605.selcdn.net/7997c20d-352d-4b6f-9653-2fc7c1d28db7/",
+          "https://pp.userapi.com/c841235/v841235236/1681a/GNrE4rneCbQ.jpg"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Xiva",
+        "desc": "",
+        "images": [
+          "https://sportishka.com/uploads/posts/2022-11/1667560883_30-sportishka-com-p-khiva-dostoprimechatelnosti-oboi-31.jpg",
+          "https://flyredwings.com/upload/information_system_24/2/8/2/item_2821/item_2821.jpg",
+          "https://www.quinta.ru/upload/iblock/c01/Hiva9.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Qo'qon",
+        "desc": "",
+        "images": [
+          "https://pbs.twimg.com/media/FPaHLcuXsAIifrA?format=jpg&name=large",
+          "https://mt.uz/storage/news/qoqon%201%20saytga.jpg",
+          "https://i.pinimg.com/originals/6f/b0/ba/6fb0baf599766c4ba80d9bd1224c1a85.jpg"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Termiz",
+        "desc": "",
+        "images": [
+          "https://caravantour.uz/images/tours/1.jpg",
+          "https://img.tourister.ru/files/1/6/7/3/9/3/6/8/original.jpg",
+          "https://img-fotki.yandex.ru/get/9930/22264419.1a8/0_7f569_e294ffdc_XXL.jpg"
+        ]
+      }
+    ],
+    "about": {
+      "title": "Biz haqimizda",
+      "desc": "Biz xizmatlarning keng spektrini taklif qilamiz: individual yoki guruh safari, chiptalar, mehmonxonalar, ekskursiyalarni tashkil qilish va ko'ngilochar dasturlar. Bizning turoperatorlarimiz siz uchun eng yaxshi variantni tanlashga, eng arzon va qiziqarli turlarni taqdim etishga, mijozning xohish-istaklarini bajarishga, hujjatlarni rasmiylashtirishda zudlik bilan yordam berishadi, shuningdek, sayohatning barcha bosqichlarida tekshirib, sizning dam olishingizni sifatini kuzatishga tayyor."
+    },
+    "visas": [
+      {
+        "id": 1,
+        "name": "Buyuk Britaniya",
+        "desc": "",
+        "images": [
+          "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/15/09/london-travel.jpg",
+          "https://www.etfrc.com/articles/wp-content/uploads/2017/04/UK-Parliament.jpg",
+          "https://www.desktopbackground.org/download/1152x864/2011/01/18/144043_tower-bridge-desktop-wallpaper-tower-bridge-images-new-wallpapers_1920x1200_h.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Yaponiya",
+        "desc": "",
+        "images": [
+          "https://gamerwall.pro/uploads/posts/2022-09/1662702326_33-gamerwall-pro-p-khram-fudzi-krasivo-44.jpg",
+          "https://res.cloudinary.com/zicasso/image/fetch/c_fill,f_auto,g_auto,h_576,q_auto,w_865/https://images.zicasso.com/f0c693a70e3840c3a1b94ab2de6b7cd1.jpg",
+          "https://i.pinimg.com/originals/42/99/2a/42992a9d3e1e3a7e46063f2d7ac22a6c.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Avstraliya",
+        "desc": "",
+        "images": [
+          "https://sportishka.com/uploads/posts/2022-04/1650699303_5-sportishka-com-p-goroda-avstralii-krasivo-foto-5.jpg",
+          "https://kartinkin.net/pics/uploads/posts/2022-08/1660114488_8-kartinkin-net-p-gold-kost-avstraliya-krasivo-foto-9.jpg",
+          "https://avatars.dzeninfra.ru/get-zen_doc/1221393/pub_60d0ff20481702636df2ea10_60d0ff67598aa70bd420d097/scale_1200"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Shengen",
+        "desc": "",
+        "images": [
+          "https://www.schengenvisaitinerary.com/blog/wp-content/uploads/2019/07/blog-post-copy.jpg",
+          "https://worldaffairscharlotte.org/wp-content/uploads/2015/07/comoUSETHISONE.png",
+          "https://getgoldenvisa.com/wp-content/uploads/2021/07/Schengen-Countries2_GetGV_new2-01-1536x1072.png"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Amerika",
+        "desc": "",
+        "images": [
+          "https://static.wikileaf.com/uploads/2021/04/shutterstock_1397031029.jpg",
+          "https://phonoteka.org/uploads/posts/2021-06/1624470058_22-phonoteka_org-p-krasivie-oboi-amerika-krasivo-25.jpg",
+          "https://fikiwiki.com/uploads/posts/2022-02/1644858912_15-fikiwiki-com-p-krasivie-kartinki-ameriki-20.jpg"
+        ]
+      }
+    ],
+    "advantages": [
+      "Yuqori sifat",
+      "Qulay sayohat",
+      "Ishonch",
+      "Qadriyatlarimiz"
+    ],
+    "aviakassa": {
+      "title": "BARCHA YO'NALISHLARGA REYSLAR!",
+      "desc": "Dunyoning barcha mamlakatlariga aviachiptalar",
+      "link": "Bo'glaning"
+    },
+    "contacts": {
+      "addressTitle": "Manzil",
+      "addresses": [
+        "Toshkent shahar Chilonzor 16-kvartal 'Yangi asr' ko'chasi",
+        "Namangan shahar 'A.Ho'jayev' ko'chasi 3-uy",
+        "Farg'ona shahar 'x' ko'chasi x-uy"
+      ],
+      "email": "Elektron pochta",
+      "tel": "Telefon raqamlar"
+    }
+  },
+  "ru": {
+    "header": [
+      {
+        "title": "Главная",
+        "link": "#header"
+      },
+      {
+        "title": "Туры",
+        "link": "#tours"
+      },
+      {
+        "title": "О Нас",
+        "link": "#about"
+      },
+      {
+        "title": "Контакты",
+        "link": "contact"
+      }
+    ],
+    "carousel": [
+      {
+        "title": "Шарм Эш Шейх",
+        "link": "Шарм Эш Шейх"
+      },
+      {
+        "title": "Роскошный Дубай",
+        "link": "Роскошный Дубай"
+      },
+      {
+        "title": "Тропические острова Таиланда",
+        "link": "Тропические острова Таиланда"
+      },
+      {
+        "title": "Хадж и Умра",
+        "link": "Хадж и Умра"
+      },
+      {
+        "title": "Турция",
+        "link": "Турция"
+      },
+      {
+        "title": "Layner",
+        "link": "Layner"
+      }
+    ],
+    "tours": [
+      {
+        "id": 1,
+        "name": "Дубай",
+        "desc": "",
+        "images": [
+          "https://dubai-luxury.property/ru/uploads/images/2022-10/0b037a6a5fb15a728fa47d5b47a467e4.jpg",
+          "https://pbs.twimg.com/media/DbdLxLIV0AEUc8a.jpg:large",
+          "https://www.worldtravelplanner.co.uk/wp-content/uploads/2020/11/bulgari.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Хадж и Умра",
+        "desc": "",
+        "images": [
+          "https://sgp1.digitaloceanspaces.com/indonesiawindow/2020/09/DL1W6214-1536x1024.jpg",
+          "https://atyabtravels.in/wp-content/uploads/2017/04/hd-haram-1.jpg",
+          "https://foundtheworld.com/wp-content/uploads/2016/01/Mecca-2-1392x835.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Шарм Эш Шейх",
+        "desc": "",
+        "images": [
+          "https://sportishka.com/uploads/posts/2022-03/1646085228_8-sportishka-com-p-sharmel-sheikh-yegipet-turizm-krasivo-foto-10.jpg",
+          "http://vsegda-pomnim.com/uploads/posts/2022-04/1649341892_52-vsegda-pomnim-com-p-yegipet-sharm-el-sheikh-plyazhi-foto-61.jpg",
+          "https://sportishka.com/uploads/posts/2022-03/1646085183_17-sportishka-com-p-sharmel-sheikh-yegipet-turizm-krasivo-foto-20.jpg"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Таиланд",
+        "desc": "",
+        "images": [
+          "https://img5.goodfon.ru/original/1024x768/c/e4/gorod-noch-zdaniia-bangkok-tailand-tailand-park-ogni.jpg",
+          "https://static.guidego.ru/64424eb4e5a415045ada8882.1600x1200.jpeg",
+          "https://sportishka.com/uploads/posts/2022-03/1646332659_16-sportishka-com-p-pkhuket-plyazhi-turizm-krasivo-foto-21.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Турция",
+        "desc": "",
+        "images": [
+          "https://alkhailtr.com/wp-content/uploads/2022/10/Cost-of-living-in-Turkey.jpg",
+          "https://sn-gazeta.ru/wp-content/uploads/2023/04/lualuao12122.jpeg",
+          "https://img5.goodfon.ru/original/1280x960/b/54/antalia-turtsiia-iakhty-more.jpg"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Лайнер",
+        "desc": "",
+        "images": [
+          "https://sun9-15.userapi.com/impg/56Rnw8QEUF6Y5EQaZeHK1dSgpoNabam7keTwHQ/110myxDKU28.jpg?size=1280x852&quality=95&sign=6b3529fa4e9bf2a8b6548ab48595f3ae&c_uniq_tag=HyFrE9FMrio7lFl0qJKeLu15wwgAACRCCl4ebiMBgbI&type=album",
+          "https://drikus.club/uploads/posts/2021-12/thumbs/1640795970_15-drikus-club-p-krasivie-kruiznie-laineri-tekhnika-krasivo-16.jpg",
+          "https://img1.goodfon.com/original/1280x1024/1/9b/msc-fantasia-sudno-layner.jpg"
+        ]
+      }
+    ],
+    "localTours": [
+      {
+        "id": 1,
+        "name": "Ташкент",
+        "desc": "",
+        "images": [
+          "https://static.tildacdn.com/tild3435-3539-4033-b565-333238333237/__.jpg",
+          "https://indyguide-web-development.s3.us-east-2.amazonaws.com/listings/images/Family-Tour-In-In-Uzbekistan-1614685680650.jpg",
+          "https://loveopium.ru/content/2019/06/tashkent/34s.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Самарканд",
+        "desc": "",
+        "images": [
+          "https://advice.uz/uploads/resources/RegistanSquare_Samarkand.jpg",
+          "https://turan-travel.com/uploads/excursions/Samarkand/photos/75551533990838.jpeg",
+          "https://visaispan.ru/images/wp-content/uploads/2021/02/visa-v-uzbekistan-01.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Бухара",
+        "desc": "",
+        "images": [
+          "https://kapital.uz/wp-content/uploads/2022/05/buhara1.jpg",
+          "https://7d9e88a8-f178-4098-bea5-48d960920605.selcdn.net/7997c20d-352d-4b6f-9653-2fc7c1d28db7/",
+          "https://pp.userapi.com/c841235/v841235236/1681a/GNrE4rneCbQ.jpg"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Хива",
+        "desc": "",
+        "images": [
+          "https://sportishka.com/uploads/posts/2022-11/1667560883_30-sportishka-com-p-khiva-dostoprimechatelnosti-oboi-31.jpg",
+          "https://flyredwings.com/upload/information_system_24/2/8/2/item_2821/item_2821.jpg",
+          "https://www.quinta.ru/upload/iblock/c01/Hiva9.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Коканд",
+        "desc": "",
+        "images": [
+          "https://pbs.twimg.com/media/FPaHLcuXsAIifrA?format=jpg&name=large",
+          "https://mt.uz/storage/news/qoqon%201%20saytga.jpg",
+          "https://i.pinimg.com/originals/6f/b0/ba/6fb0baf599766c4ba80d9bd1224c1a85.jpg"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Термиз",
+        "desc": "",
+        "images": [
+          "https://caravantour.uz/images/tours/1.jpg",
+          "https://img.tourister.ru/files/1/6/7/3/9/3/6/8/original.jpg",
+          "https://img-fotki.yandex.ru/get/9930/22264419.1a8/0_7f569_e294ffdc_XXL.jpg"
+        ]
+      }
+    ],
+    "about": {
+      "title": "О нас",
+      "desc": "Мы предлагаем широкий спектр услуг: от оформления визы до организации индивидуального или группового тура, бронирования билетов, отелей, трансферов и организации экскурсионных и развлекательных программ. Наши туроператоры готовы подобрать для вас оптимальный вариант, предоставить самые доступные и интересные туры, выполнить пожелания клиента, оперативно помочь с оформлением документов, а также следить за качеством вашего отдыха, проверяя на всех этапах поездки."
+    },
+    "visas": [
+      {
+        "id": 1,
+        "name": "Великобритания",
+        "desc": "",
+        "images": [
+          "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/15/09/london-travel.jpg",
+          "https://www.etfrc.com/articles/wp-content/uploads/2017/04/UK-Parliament.jpg",
+          "https://www.desktopbackground.org/download/1152x864/2011/01/18/144043_tower-bridge-desktop-wallpaper-tower-bridge-images-new-wallpapers_1920x1200_h.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Япония",
+        "desc": "",
+        "images": [
+          "https://gamerwall.pro/uploads/posts/2022-09/1662702326_33-gamerwall-pro-p-khram-fudzi-krasivo-44.jpg",
+          "https://res.cloudinary.com/zicasso/image/fetch/c_fill,f_auto,g_auto,h_576,q_auto,w_865/https://images.zicasso.com/f0c693a70e3840c3a1b94ab2de6b7cd1.jpg",
+          "https://i.pinimg.com/originals/42/99/2a/42992a9d3e1e3a7e46063f2d7ac22a6c.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Австралия",
+        "desc": "",
+        "images": [
+          "https://sportishka.com/uploads/posts/2022-04/1650699303_5-sportishka-com-p-goroda-avstralii-krasivo-foto-5.jpg",
+          "https://kartinkin.net/pics/uploads/posts/2022-08/1660114488_8-kartinkin-net-p-gold-kost-avstraliya-krasivo-foto-9.jpg",
+          "https://avatars.dzeninfra.ru/get-zen_doc/1221393/pub_60d0ff20481702636df2ea10_60d0ff67598aa70bd420d097/scale_1200"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Шенген",
+        "desc": "",
+        "images": [
+          "https://www.schengenvisaitinerary.com/blog/wp-content/uploads/2019/07/blog-post-copy.jpg",
+          "https://worldaffairscharlotte.org/wp-content/uploads/2015/07/comoUSETHISONE.png",
+          "https://getgoldenvisa.com/wp-content/uploads/2021/07/Schengen-Countries2_GetGV_new2-01-1536x1072.png"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Америка",
+        "desc": "",
+        "images": [
+          "https://static.wikileaf.com/uploads/2021/04/shutterstock_1397031029.jpg",
+          "https://phonoteka.org/uploads/posts/2021-06/1624470058_22-phonoteka_org-p-krasivie-oboi-amerika-krasivo-25.jpg",
+          "https://fikiwiki.com/uploads/posts/2022-02/1644858912_15-fikiwiki-com-p-krasivie-kartinki-ameriki-20.jpg"
+        ]
+      }
+    ],
+    "advantages": ["Качество", "Удобство", "Доверие", "Наши преимущества"],
+    "aviakassa": {
+      "title": "Авиабилеты во все страны мира!",
+      "desc": "Самые выгодные и подходящие рейсы для вас.",
+      "link": "Свяжетесь с нами"
+    },
+    "contacts": {
+      "addressTitle": "Адрес",
+      "addresses": [
+        "г. Ташкент Чиланзар 16-квартал ул. 'Янги аср'",
+        "г. Наманган ул. 'A.Хужаев' дом №3",
+        "г. Фергана ул. 'x' дом №?"
+      ],
+      "email": "Электронная почта",
+      "tel": "Телефоный номер"
+    }
+  },
+  "en": {
+    "header": [
+      {
+        "title": "Home",
+        "link": "#header"
+      },
+      {
+        "title": "Tours",
+        "link": "#tours"
+      },
+      {
+        "title": "About",
+        "link": "#about"
+      },
+      {
+        "title": "Contacts",
+        "link": "contact"
+      }
+    ],
+    "carousel": [
+      {
+        "title": "Sharm-el Sheykh",
+        "link": "Sharm-el Sheykh"
+      },
+      {
+        "title": "Luxury Dubai",
+        "link": "Dubai"
+      },
+      {
+        "title": "Tropical islands of thailand",
+        "link": "thailand"
+      },
+      {
+        "title": "Hajj and Umrah",
+        "link": "Hajj and Umrah"
+      },
+      {
+        "title": "Turkey",
+        "link": "Turkey"
+      },
+      {
+        "title": "Layner",
+        "link": "Layner"
+      }
+    ],
+    "tours": [
+      {
+        "id": 1,
+        "name": "Dubai",
+        "desc": "",
+        "images": [
+          "https://dubai-luxury.property/ru/uploads/images/2022-10/0b037a6a5fb15a728fa47d5b47a467e4.jpg",
+          "https://pbs.twimg.com/media/DbdLxLIV0AEUc8a.jpg:large",
+          "https://www.worldtravelplanner.co.uk/wp-content/uploads/2020/11/bulgari.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Hajj and Umrah",
+        "desc": "",
+        "images": [
+          "https://sgp1.digitaloceanspaces.com/indonesiawindow/2020/09/DL1W6214-1536x1024.jpg",
+          "https://atyabtravels.in/wp-content/uploads/2017/04/hd-haram-1.jpg",
+          "https://foundtheworld.com/wp-content/uploads/2016/01/Mecca-2-1392x835.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Sharm-el Sheykh",
+        "desc": "",
+        "images": [
+          "https://sportishka.com/uploads/posts/2022-03/1646085228_8-sportishka-com-p-sharmel-sheikh-yegipet-turizm-krasivo-foto-10.jpg",
+          "http://vsegda-pomnim.com/uploads/posts/2022-04/1649341892_52-vsegda-pomnim-com-p-yegipet-sharm-el-sheikh-plyazhi-foto-61.jpg",
+          "https://sportishka.com/uploads/posts/2022-03/1646085183_17-sportishka-com-p-sharmel-sheikh-yegipet-turizm-krasivo-foto-20.jpg"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Thailand",
+        "desc": "",
+        "images": [
+          "https://img5.goodfon.ru/original/1024x768/c/e4/gorod-noch-zdaniia-bangkok-tailand-tailand-park-ogni.jpg",
+          "https://static.guidego.ru/64424eb4e5a415045ada8882.1600x1200.jpeg",
+          "https://sportishka.com/uploads/posts/2022-03/1646332659_16-sportishka-com-p-pkhuket-plyazhi-turizm-krasivo-foto-21.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Turkey",
+        "desc": "",
+        "images": [
+          "https://alkhailtr.com/wp-content/uploads/2022/10/Cost-of-living-in-Turkey.jpg",
+          "https://sn-gazeta.ru/wp-content/uploads/2023/04/lualuao12122.jpeg",
+          "https://img5.goodfon.ru/original/1280x960/b/54/antalia-turtsiia-iakhty-more.jpg"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Layner",
+        "desc": "",
+        "images": [
+          "https://sun9-15.userapi.com/impg/56Rnw8QEUF6Y5EQaZeHK1dSgpoNabam7keTwHQ/110myxDKU28.jpg?size=1280x852&quality=95&sign=6b3529fa4e9bf2a8b6548ab48595f3ae&c_uniq_tag=HyFrE9FMrio7lFl0qJKeLu15wwgAACRCCl4ebiMBgbI&type=album",
+          "https://drikus.club/uploads/posts/2021-12/thumbs/1640795970_15-drikus-club-p-krasivie-kruiznie-laineri-tekhnika-krasivo-16.jpg",
+          "https://img1.goodfon.com/original/1280x1024/1/9b/msc-fantasia-sudno-layner.jpg"
+        ]
+      }
+    ],
+    "localTours": [
+      {
+        "id": 1,
+        "name": "Tashkent",
+        "desc": "",
+        "images": [
+          "https://static.tildacdn.com/tild3435-3539-4033-b565-333238333237/__.jpg",
+          "https://indyguide-web-development.s3.us-east-2.amazonaws.com/listings/images/Family-Tour-In-In-Uzbekistan-1614685680650.jpg",
+          "https://loveopium.ru/content/2019/06/tashkent/34s.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Samarqand",
+        "desc": "",
+        "images": [
+          "https://advice.uz/uploads/resources/RegistanSquare_Samarkand.jpg",
+          "https://turan-travel.com/uploads/excursions/Samarkand/photos/75551533990838.jpeg",
+          "https://visaispan.ru/images/wp-content/uploads/2021/02/visa-v-uzbekistan-01.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Bukhara",
+        "desc": "",
+        "images": [
+          "https://kapital.uz/wp-content/uploads/2022/05/buhara1.jpg",
+          "https://7d9e88a8-f178-4098-bea5-48d960920605.selcdn.net/7997c20d-352d-4b6f-9653-2fc7c1d28db7/",
+          "https://pp.userapi.com/c841235/v841235236/1681a/GNrE4rneCbQ.jpg"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Khiva",
+        "desc": "",
+        "images": [
+          "https://sportishka.com/uploads/posts/2022-11/1667560883_30-sportishka-com-p-khiva-dostoprimechatelnosti-oboi-31.jpg",
+          "https://flyredwings.com/upload/information_system_24/2/8/2/item_2821/item_2821.jpg",
+          "https://www.quinta.ru/upload/iblock/c01/Hiva9.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Kokand",
+        "desc": "",
+        "images": [
+          "https://pbs.twimg.com/media/FPaHLcuXsAIifrA?format=jpg&name=large",
+          "https://mt.uz/storage/news/qoqon%201%20saytga.jpg",
+          "https://i.pinimg.com/originals/6f/b0/ba/6fb0baf599766c4ba80d9bd1224c1a85.jpg"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Termiz",
+        "desc": "",
+        "images": [
+          "https://caravantour.uz/images/tours/1.jpg",
+          "https://img.tourister.ru/files/1/6/7/3/9/3/6/8/original.jpg",
+          "https://img-fotki.yandex.ru/get/9930/22264419.1a8/0_7f569_e294ffdc_XXL.jpg"
+        ]
+      }
+    ],
+    "about": {
+      "title": "About Us",
+      "desc": "We offer a wide range of services: from visa processing to making an individual or group tour, booking tickets, hotels, transfers and organizing sightseeing and entertainment programs. Our tour operators are ready to choose the best option for you, provide the most affordable and interesting tours, fulfill the wishes of the client, promptly help with paperwork, as well as monitor the quality of his rest, checking at all stages of the trip."
+    },
+    "visas": [
+      {
+        "id": 1,
+        "name": "United Kingdom",
+        "desc": "",
+        "images": [
+          "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/15/09/london-travel.jpg",
+          "https://www.etfrc.com/articles/wp-content/uploads/2017/04/UK-Parliament.jpg",
+          "https://www.desktopbackground.org/download/1152x864/2011/01/18/144043_tower-bridge-desktop-wallpaper-tower-bridge-images-new-wallpapers_1920x1200_h.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Japan",
+        "desc": "",
+        "images": [
+          "https://gamerwall.pro/uploads/posts/2022-09/1662702326_33-gamerwall-pro-p-khram-fudzi-krasivo-44.jpg",
+          "https://res.cloudinary.com/zicasso/image/fetch/c_fill,f_auto,g_auto,h_576,q_auto,w_865/https://images.zicasso.com/f0c693a70e3840c3a1b94ab2de6b7cd1.jpg",
+          "https://i.pinimg.com/originals/42/99/2a/42992a9d3e1e3a7e46063f2d7ac22a6c.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Australia",
+        "desc": "",
+        "images": [
+          "https://sportishka.com/uploads/posts/2022-04/1650699303_5-sportishka-com-p-goroda-avstralii-krasivo-foto-5.jpg",
+          "https://kartinkin.net/pics/uploads/posts/2022-08/1660114488_8-kartinkin-net-p-gold-kost-avstraliya-krasivo-foto-9.jpg",
+          "https://avatars.dzeninfra.ru/get-zen_doc/1221393/pub_60d0ff20481702636df2ea10_60d0ff67598aa70bd420d097/scale_1200"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Shengen",
+        "desc": "",
+        "images": [
+          "https://www.schengenvisaitinerary.com/blog/wp-content/uploads/2019/07/blog-post-copy.jpg",
+          "https://worldaffairscharlotte.org/wp-content/uploads/2015/07/comoUSETHISONE.png",
+          "https://getgoldenvisa.com/wp-content/uploads/2021/07/Schengen-Countries2_GetGV_new2-01-1536x1072.png"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "America",
+        "desc": "",
+        "images": [
+          "https://static.wikileaf.com/uploads/2021/04/shutterstock_1397031029.jpg",
+          "https://phonoteka.org/uploads/posts/2021-06/1624470058_22-phonoteka_org-p-krasivie-oboi-amerika-krasivo-25.jpg",
+          "https://fikiwiki.com/uploads/posts/2022-02/1644858912_15-fikiwiki-com-p-krasivie-kartinki-ameriki-20.jpg"
+        ]
+      }
+    ],
+    "advantages": ["High quality", "Comfortable trip", "Trust", "Advantages"],
+    "aviakassa": {
+      "title": "FLIGHTS TO ALL DESTINATIONS!",
+      "desc": "Air tickets to all countries of the world",
+      "link": "Contact us"
+    },
+    "contacts": {
+      "addressTitle": "Address",
+      "addresses": [
+        "Tashkent City Chilonzor 16-Block 'Yangi asr' Street",
+        "Namangan City 'A.Hojayev' Street 3",
+        "Fergana City 'X' Street x"
+      ],
+      "email": "Email",
+      "tel": "Phone number"
+    }
+  },
+  "images": {
+    "carousel": [
+      "https://vsegda-pomnim.com/uploads/posts/2022-04/1649335422_72-vsegda-pomnim-com-p-plyazhi-sharm-el-sheikha-foto-78.jpg",
+      "https://travel-cam.net/img/art_opis/50-03.jpg",
+      "https://24minus.ru/800/600/https/www.aerotravel.ro/blog/wp-content/uploads/shutterstock_289362893-Tropical-island-with-resorts-Phi-Phi-island-Krabi-Province-Thailand.jpg",
+      "https://www.newarab.com/sites/default/files/1234110635.jpeg",
+      "https://d-art.ppstatic.pl/kadry/k/r/1/26/a2/63e6485a96d8e_o_original.jpg",
+      "https://www.wallpaperup.com/uploads/wallpapers/2016/03/03/903785/67e8f66efcddcd2b81959cc72f25ecc3.jpg"
+    ],
+    "tours": [
+      "https://images.unsplash.com/photo-1546412414-e1885259563a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "https://media.istockphoto.com/id/149121279/photo/muslim-pilgrims-circumambulate-the-kaaba-at-dawn.jpg?s=170667a&w=0&k=20&c=iDj8kert7w_VUu80-niMVRQCEgdKxM2Zigm62k1snwA=",
+      "https://w0.peakpx.com/wallpaper/388/68/HD-wallpaper-concorde-hotel-el-salam-egypt-sharm-el-sheikh-architecture-concorde-hotel-el-salam-hotels-houses-egypt-sharm-el-sheikh.jpg",
+      "https://img.freepik.com/free-photo/beautiful-girl-standing-viewpoint-koh-nangyuan-island-near-koh-tao-island-surat-thani-thailand_335224-1094.jpg",
+      "https://www.travelcenter.uk/blog/wp-content/uploads/2018/04/shutterstock_668692546_View-on-Blue-Mosque-and-Sea-of-Marmara-in-Istanbul-at-sunrise-Turkey.-960x661.jpg",
+      "https://cdn.boatinternational.com/files/2022/02/ffc18fe0-900e-11ec-afca-4dd3a7a720d9-sea-rhapsody-1.jpg"
+    ],
+    "localTours": [
+      "https://stat.uz/images/demo_050122_ici.jpg",
+      "https://w0.peakpx.com/wallpaper/932/835/HD-wallpaper-samarkand-uzbekistan-ancient-city-evening-sunset-islamic-architecture-samarqand.jpg",
+      "https://media.istockphoto.com/id/1190004106/photo/view-of-the-historic-centre-of-bukhara-uzbekistan.jpg?s=612x612&w=0&k=20&c=NS14U7J1-vSqOr5mOAWiZdNPfSspSVPA_28Jbz32ORo=",
+      "https://wikiway.com/upload/hl-photo/f79/6d8/khiva_82.jpg",
+      "https://dolorestravel.com/uploads/Guide/19/6272fa3a7f39e.jpg",
+      "https://xs.uz/upload/post/2018/10/27/96e69b01ea7f0d99bc7f6ab8f4484f8a1027.jpg"
+    ],
+    "visas": [
+      "https://cdn.dribbble.com/users/3829385/screenshots/6938228/london_visa.png",
+      "https://sahelsheni.com/wp-content/uploads/2020/02/ویزای-ژاپن.jpg",
+      "https://www.imigrate2.com/wp-content/uploads/2019/11/imgonline-com-ua-CompressToSize-7ipQBmP71aSPflpq-1.jpg",
+      "https://cdn.tatilsepeti.com/Files/TatilRehberi/tsr00003637268706434737924.jpg",
+      "https://myworkvisas.com/wp-content/uploads/2020/11/pg-6-What-is-Eb-5-Photo-1-scaled.jpg"
+    ]
+  }
+}

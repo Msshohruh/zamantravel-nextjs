@@ -1,0 +1,12 @@
+.Aviakassa {
+    height: 70vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("https://images7.alphacoders.com/468/468539.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-shadow: 0px 0px 10px #000;
+}
+.Aviakassa a {
+    text-shadow: none;
+    border: 3px solid #2163fd;
+}
